@@ -167,17 +167,27 @@ body {
     .wrapper div {
         width: 150px;
     }
+    .main {
+        height: auto;
+    }
     .left {
         float: none;
+        height: 100px;
     }
     .right {
         float: none;
+        height: auto;
+    }
+    .right-upper {
+        height: auto;
     }
     .right-upper-left {
         float: none;
+        height: auto;
     }
     .right-upper-right {
         float: none;
+        height: 100px;
     }
 }
 
